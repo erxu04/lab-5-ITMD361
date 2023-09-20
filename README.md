@@ -1,0 +1,1 @@
+Fixed common errors in original html file such as indentation, extra spaces, and the like.
